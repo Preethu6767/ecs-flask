@@ -540,3 +540,70 @@ sudo apt install python3-pip -y
 pip3 install gitpython
 vim lambda_function.py
 exit;
+apt updtate
+apt update
+apt install python3.10-venv
+python3 -m venv venv
+source venv/bin/activate
+pip install Flask
+vim app.py
+vim Dockerfile
+vim requirements.txt
+ll
+git init
+git add .
+git init
+git add .
+git commit -m "Initial commit of Flask app"
+git remote add origin https://github.com/Preethu6767/flask-ecs-app
+git push -u origin master
+git remote set-url origin https://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@github.com/Preethu6767/flask-ecs-app
+git push -u origin master
+git rm .anydesk
+git rm -r .anydesk
+git rm --cached .anydesk
+ll
+git add app.py Dockerfile requirements.txt
+git commit -m "Add app.py, Dockerfile, and requirements.txt"
+git push origin main
+git init
+git add app.py Dockerfile requirements.txt
+git commit -m "Initial commit of Flask app"
+git remote add origin https://github.com/Preethu6767/flask-ecs-app
+git remote set-url origin https://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@github.com/Preethu6767/flask-ecs-app
+git push -u origin master
+git remote set-url origin https://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@github.com/Preethu6767/flask-ecs-app
+git push -u origin master
+ll
+rm app.py 
+rm Dockerfile 
+rm requirements.txt 
+ll
+vim app.py
+vim Dockerfile
+vim requirements.txt
+git init
+git add app.py Dockerfile requirements.txt
+git commit -m "Initial commit of Flask app"
+git status
+git add .viminfo lmwrapper
+git add app.py Dockerfile requirements.txt
+git commit -m "Initial commit of Flask app"
+git status
+git remote add origin https://github.com/Preethu6767/flask-ecs-app
+git remote set-url origin https://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@github.com/Preethu6767/flask-ecs-app
+git push -u origin master
+git remote set-url origin https://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/Preethu6767/flask-ecs-app
+git push -u origin master
+cd
+git init
+git add app.py Dockerfile requirements.txt
+git commit -m "Initial commit of Flask app"
+git add app.py
+git add Dockerfile 
+git add requirements.txt 
+git commit -m "Initial commit of Flask app"
+git remote add origin https://github.com/Preethu6767/ecs-flask
+git remote set-url origin https://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@github.com/Preethu6767/ecs-flask
+git push -u origin master
+exit;
