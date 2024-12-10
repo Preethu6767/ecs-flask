@@ -1,0 +1,7 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^vibgyorworld\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.vibgyorworld\.net$
+RewriteRule ^/?$ "https\:\/\/www\.vibgyorworld\.net\/" [R=301,L]
